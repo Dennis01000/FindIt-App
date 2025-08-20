@@ -1,56 +1,42 @@
-# FindIt App
+# 📱 FindIt App  
 
-A **Lost & Found mobile application** built with **React Native** and **Firebase**, designed to help users report, search, and recover lost items efficiently.
-
----
-
-## Features
-- Report lost items with photos and details  
-- Search and browse found items  
-- Location tracking for reported items  
-- Image uploads using Firebase Storage  
-- Secure authentication (Email/Password + Google Sign-In)  
-- Categorization with tags (e.g., Work, School, Personal)  
+FindIt is a **Lost & Found mobile application** built with **React Native (Expo) and Firebase**.  
+It allows users to report, search, and claim lost or found items in real-time with image uploads, contact details, and location support.  
 
 ---
 
-## Tech Stack
+## ✨ Features  
+
+- 🔑 **User Authentication** (Firebase Auth)  
+- 📸 **Upload images** of lost/found items (Firebase Storage)  
+- 🗂️ **Categorize items** (Lost / Found)  
+- 📍 **Location support** for better tracking  
+- 📧 **Contact via Email or Phone**  
+- 🕒 **Real-time updates** using Firebase Firestore  
+
+---
+
+## 🚀 Tech Stack  
+
 - **Frontend:** React Native (Expo)  
-- **Backend:** Firebase Firestore & Storage  
-- **Authentication:** Firebase Auth (Email & Google OAuth)  
-- **Deployment:** Expo EAS  
+- **Backend & Database:** Firebase (Auth, Firestore, Storage)  
+- **Other:** Expo Router, Modern UI/UX design  
 
 ---
 
-## Installation
 
-Clone the repository:
-```bash
-git clone https://github.com/Dennis01000/FindIt-App.git
-cd FindIt-App
-Install dependencies:
 
-bash
-Copy
-Edit
-npm install
-Run the app:
 
-bash
-Copy
-Edit
-npx expo start
 
-Contributing
-Contributions are welcome. Please open an issue to discuss proposed changes before submitting a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Author: Dennis01000
+
+
 
 ## 📱 Screenshots  
 
-![App1](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot1.jpg)  
-![App2](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot2.jpg)  
-![App3](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot3.jpg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot1.jpg" width="250" alt="Screenshot 1" />
+  <img src="https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot3.jpg" width="250" alt="Screenshot 3" />
+ <img src="https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot2.jpg" width="250" alt="Screenshot 2" />
+</p>  

@@ -40,13 +40,11 @@ bash
 Copy
 Edit
 npx expo start
-Screenshots
-![App1](https://github.com/Dennis01000/FindIt-App/blob/3003467d50f7847b12353374383a6f722c94529c/App%20Screenshot1.jpg
-)
-![App2](https://github.com/Dennis01000/FindIt-App/blob/cd1d712e792d24aac06201dc2b0f45f1b772bba8/App%20Screenshot2.jpg
-)
-![App3](https://github.com/Dennis01000/FindIt-App/blob/bdcd668ce40cdae364d651196d8815afb9bd8453/App%20Screenshot3.jpg
-)
+## 📱 Screenshots  
+
+![App1](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot1.jpg)  
+![App2](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot2.jpg)  
+![App3](https://raw.githubusercontent.com/Dennis01000/FindIt-App/main/App%20Screenshot3.jpg)  
 
 Contributing
 Contributions are welcome. Please open an issue to discuss proposed changes before submitting a pull request.

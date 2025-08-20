@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "FindIt",
+    "slug": "FindIt",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/LostAndFound_240x240.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/LostAndFound_240x240.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.FindIt",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/LostAndFound_240x240.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.anonymous.findIt"
+    },
+    "web": {
+      "favicon": "./assets/images/LostAndFound.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router"
+    ],
+    "scheme": "findit",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {}
+    }
+  }
+}
